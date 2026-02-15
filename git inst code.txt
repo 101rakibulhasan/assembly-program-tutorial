@@ -1,0 +1,10 @@
+0. Data Transimission
+	MOV, I/O, STORE/LOAD DATA
+1. Arithmatic Operation
+	ADD, SUB, MUL, DIV, INC, DEC
+2. Bitwise Operation
+	AND, OR, XOR, SHL, SHR, NEG
+3. Conditionals and Jumps
+	JE, JNE, JG, JGE, JL, JLE, TEST, JZ, JNZ, JMP, LJMP
+4. Function Call
+	CALL, RET, PUSH, POP
